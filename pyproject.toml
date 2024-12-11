@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "yt-2024-di"
+version = "0.1.0"
+description = ""
+authors = ["Chuck Conway <charles@cconway.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
